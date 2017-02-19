@@ -13,6 +13,3 @@ dialog --infobox "Connecting to RU-004 via OpenVPN" 4 30 ; sleep 2
 
 clear
 toilet -F gay -f smblock Connected!
-
-echo test
-echo willy
