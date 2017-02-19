@@ -15,3 +15,4 @@ clear
 toilet -F gay -f smblock Connected!
 
 echo test
+echo willy
