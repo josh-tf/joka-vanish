@@ -1,5 +1,7 @@
 # joka-vanish - NordVPN CLI Tool
 
+### NOTE: Decomissioned
+
 [![Python](http://i.imgur.com/Vjttl4P.png?1)](https://www.python.org/)
 
 Vanish is a easy-to-use command line based client for [NordVPN](https://nordvpn.com/). Vanish has a range of features including selecting servers based on location, best ping or the ability to set favourites.
